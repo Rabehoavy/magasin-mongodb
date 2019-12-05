@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Magasin en ligne",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magasin"
+  ],
+  "author": "Ando",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
